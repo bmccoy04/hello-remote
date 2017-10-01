@@ -12,6 +12,6 @@ Now you can be a Wiz at this language and code stuff up like `console.writeline(
 
 Can't remember the language? No Problem! Just visit one of these resources:
 
-[Markdown CheatSheet by Adam Pritchard](https://github.comn/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown CheatSheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Learn Markdown in 60 Seconds by CommonMark.org](http://commonmark.org/help/)
